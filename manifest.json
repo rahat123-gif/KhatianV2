@@ -1,0 +1,18 @@
+{
+  "name": "খতিয়ান",
+  "short_name": "খতিয়ান",
+  "description": "মিল, খরচ, আয়-ব্যয় ও সদস্যদের বকেয়ার হিসাব — অফলাইনেও চলে",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ece1c8",
+  "theme_color": "#14566f",
+  "lang": "bn",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
